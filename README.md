@@ -5,10 +5,10 @@ The purpose of this analysis is to make interactive maps to display earthquake d
 Various features added to the maps in this analysis can be seen below: 
 
 Street map layer:
-![streets_layer](https://github.com/aarce21/Mapping_Earthquakes/blob/main/Earthquakes_past7days/images/streets_layer.PNG)
+![streets_layer](https://github.com/aarce21/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/streets_layer.PNG)
 
 Satellite layer:
-![satellite_layer](https://github.com/aarce21/Mapping_Earthquakes/blob/main/Earthquakes_past7days/images/satellite_layer.PNG)
+![satellite_layer](https://github.com/aarce21/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/satellite_layer.PNG)
 
 Dark layer: 
-![dark_layer](https://github.com/aarce21/Mapping_Earthquakes/blob/main/Earthquakes_past7days/images/dark_layer.PNG)
+![dark_layer](https://github.com/aarce21/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/dark_layer.PNG)
